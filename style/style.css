@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+.pulm {
+    background-color: peru;
+    padding: 2% 10%;
+}
+.putih {
+    background-color: bisque;
+    padding: 2% 10%;
+}
+
+#profil {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#Pendidikan {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+#kemampuan {
+    display: flex;
+    align-content: center;
+    justify-content: center;   
+}
+#kemampuan li {
+    list-style: disc;
+}
+
+#kontak {
+    padding: 2% 10%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
